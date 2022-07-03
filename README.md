@@ -1,6 +1,6 @@
 # tftp-flash
 
-![Screenshot](tftp-flash.gif)
+![tftp-flash](https://user-images.githubusercontent.com/26827453/177019813-7f192323-5cb0-4dbc-911e-80d4dff88d8a.gif)
 
 ## HowTo
 
